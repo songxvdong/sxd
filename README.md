@@ -1,2 +1,2 @@
 # sxd
-study git
+study gitlla
